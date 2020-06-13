@@ -1,0 +1,2 @@
+限定在ZenFone 5 (2018) ZE620KL上使用
+系統版本必須為 UL-ASUS_X00QD-ASUS-AOSP-17.0615.2003.20-1.1.1-user 以上版本
